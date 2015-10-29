@@ -735,3 +735,38 @@ const string MONETDB_HOSTNAME = "monetdb.hostname";
  * Property which represents the port number on which MonetDB is running
  */
 const string MONETDB_PORT = "monetdb.port";
+
+
+//
+// Postgres Constants
+//
+
+/**
+ * Property which represents hive db ezconfig key
+ */
+const string HIVE_DB = "hive.db";
+
+/**
+ * Property which represents hive host ezconfig key
+ */
+const string HIVE_HOST = "hive.host" ;
+
+/**
+ * Property which represents hive password ezconfig key
+ */
+const string HIVE_PASSWORD = "hive.password";
+
+/**
+ * Property which represents hive port ezconfig key
+ */
+const string HIVE_PORT = "hive.port";
+
+/**
+ * Property which represents hive username ezconfig key
+ */
+const string HIVE_USERNAME = "hive.username";
+
+/**
+ * Property which represents whether hive connection uses ssl ezconfig key
+ */
+const string HIVE_USE_SSL = "hive.use.ssl";
